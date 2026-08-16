@@ -1501,7 +1501,7 @@ do
     while _<1 do
         _=_+1
         local __=(_OZZSzQaue6(_ZtRmNDVeR3))
-        local ___=loadstring or load
-        assert(___,"Executor missing loadstring")()(__)
+        local ___ = loadstring or load
+        assert(___, "Executor missing loadstring")(__)()
     end
 end
